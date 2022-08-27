@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataflow": {
-						"referenceName": "file_to_db",
+						"referenceName": "payrollfile_to_db",
 						"type": "DataFlowReference"
 					},
 					"compute": {
