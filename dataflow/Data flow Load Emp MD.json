@@ -1,5 +1,5 @@
 {
-	"name": "empfile_to_synapse",
+	"name": "Data flow Load Emp MD",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {

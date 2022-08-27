@@ -1,5 +1,5 @@
 {
-	"name": "agencyfile_to_synapse",
+	"name": "Data flow Load Agency MD",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {

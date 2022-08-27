@@ -1,5 +1,5 @@
 {
-	"name": "payrolldb_to_synapse",
+	"name": "Data flow Payroll DB to Payroll MD",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {

@@ -1,5 +1,5 @@
 {
-	"name": "titlefile_to_synapse",
+	"name": "Data flow Load Title MD",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {
