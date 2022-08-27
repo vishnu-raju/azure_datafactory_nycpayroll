@@ -1,5 +1,5 @@
 {
-	"name": "payrollfile_to_db",
+	"name": "Data flow Payroll file to DB",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {
