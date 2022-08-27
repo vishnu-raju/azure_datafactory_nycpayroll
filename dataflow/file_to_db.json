@@ -1,5 +1,5 @@
 {
-	"name": "dataflow1",
+	"name": "file_to_db",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {
